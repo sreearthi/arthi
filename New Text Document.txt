@@ -1,0 +1,75 @@
+
+
+	Java - 11 Version
+
+	GitHub (Online Account). (Code which only valid for Six months)
+
+		Repository...
+
+	GitBash - Push the code in to the GitHub.
+
+
+				Version Control Tool.
+
+	
+					Gmail - Changes in future....
+
+							Gmail 1<version number>         Test Script UPLOAD Repository
+
+							Gmail 2<verssion number>        Modify Test Script UPLOAD Repository
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Allure - Apache Maven
+
+	After installing Jenkins, CI - Continuous Integration Testing Tool
+
+					Continuous Integration Methodology
+		Install the Plugins like
+
+		GitHub Integration & Maven Integration
+		
+		Download & Install Apache Maven
+
+
+		
